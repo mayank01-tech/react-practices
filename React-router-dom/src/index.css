@@ -1,0 +1,39 @@
+*{
+  margin:0px;
+ padding:0px;
+ box-sizing: border-box;
+  color:azure;
+}
+
+html,body{
+  height: 100%;
+  width: 100%;
+  background-color: black;
+
+}
+
+h1{
+  position: absolute;
+  top:50%;
+  left:30%;
+  text-decoration: underline;
+  white-space: nowrap;
+  font-size: 100px;
+
+}
+
+.Nav{
+  display:flex;
+  justify-content: space-between;
+ padding:20px 40px;
+  align-items: center;
+  background-color: rgb(10, 150, 150);
+
+}
+
+
+.link{
+  display: flex;
+gap:20px;
+
+}
