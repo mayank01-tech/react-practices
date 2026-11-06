@@ -1,6 +1,6 @@
-# ⚛️ React.js Practice Repository
+# ⚛️ react-practice Repository
 
-Welcome to my **React.js Practice Repository**! 👋
+Welcome to my **react-practice Repository**! 👋
 
 This repository is where I document my journey of learning React.js through hands-on practice, small experiments, and code examples. I'm using it to strengthen my fundamentals, explore new concepts, and improve my frontend development skills one step at a time.
 
